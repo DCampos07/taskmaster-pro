@@ -114,8 +114,6 @@ $("#task-form-modal .btn-primary").click(function() {
 
       $(this).replaceWith(textInput);
       textInput.trigger("focus");
-
-
   });
 }
 });
